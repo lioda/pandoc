@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.10
 
 ENV PANDOC_VERSION '1.19.2.1'
 
